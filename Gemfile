@@ -10,4 +10,5 @@ gem "rake"
 gem "rspec"
 gem "turnip"
 gem "capybara"
+gem "selenium-webdriver"
 
